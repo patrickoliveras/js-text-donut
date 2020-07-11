@@ -5,7 +5,7 @@ https://www.dropbox.com/s/79ga2m7p2bnj1ga/donut_deobfuscated.c?dl=0
 Original (and much more beautiful) + explanation:
 https://www.a1k0n.net/2011/07/20/donut-math.html
 
-JS translation and general un-beautification: patrickoliveras@gmail.com
+JS translation and general ugliness and bad practice: patrickoliveras@gmail.com
 */
 
 function donut() {
